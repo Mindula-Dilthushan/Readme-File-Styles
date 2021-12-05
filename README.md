@@ -2,7 +2,7 @@
 
 ![cover](https://github.com/Mindula-Dilthushan/Readme-File-Styles/blob/master/src/assets/images/Readme-Styles.png)
 
-<h3 align="center">Text Styles</h3>
+<h3 align="center">Styles</h3>
 
 ***
 
