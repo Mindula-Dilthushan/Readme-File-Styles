@@ -10,6 +10,7 @@
 
 📌 Bold Text  👉 **Mindula Dilthushan**                                                                             <br>
 📌 Italisize Text 👉 *Mindula Dilthushan*
+📌 Strikethrough Text 👉 ~~Mindula Dilthushan~~
 
 
 
