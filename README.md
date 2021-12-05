@@ -1,4 +1,3 @@
-<p align="center" style="font-size: xx-large; font-family: 'Poppins Medium',serif; background-color: black; color: white"> 
-Readme File Styles </p>
+<h1 align="center">Readme File Styles</h1>
 
 ![cover](https://github.com/Mindula-Dilthushan/Readme-File-Styles/blob/master/src/assets/images/Readme-Styles.png)
