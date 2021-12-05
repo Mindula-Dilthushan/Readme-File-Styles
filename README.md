@@ -8,8 +8,8 @@
 
 [//]: # (---------------------------------------------------------Style------------------------------------------------)
 
-📌 Bold Text (Two Asterisks (*)) 👉 **Mindula Dilthushan**                                                           <br>
-📌 Italisize Text (One Asterisks (*)) 👉 *Mindula Dilthushan*
+📌 Bold Text  👉 **Mindula Dilthushan**                                                                             <br>
+📌 Italisize Text 👉 *Mindula Dilthushan*
 
 
 
