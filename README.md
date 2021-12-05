@@ -9,6 +9,10 @@
 [//]: # (---------------------------------------------------------Style------------------------------------------------)
 
 📌 Bold Text  👉 **Mindula Dilthushan**                                                                              <br>
+
+```md
+**Mindula Dilthushan** 
+```
 📌 Italisize Text 👉 *Mindula Dilthushan                                                                             <br>
 📌 Strikethrough Text 👉 ~~Mindula Dilthushan~~                                                                      <br>
 📌 Link Text 👉 ([Mindula_Dilthushan](https://github.com/Mindula-Dilthushan/Readme-File-Styles))                     <br>
