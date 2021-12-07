@@ -76,4 +76,6 @@
 ### Hi there, My Name Is Mindula Dilthushan
 ```
 
+***
+<h4 align="center">Social Media Apps Icon</h4>
 
