@@ -79,3 +79,9 @@
 ***
 <h4 align="center">Social Media Apps Icon</h4>
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+
+```md
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+```
+***
