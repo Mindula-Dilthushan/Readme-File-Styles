@@ -79,9 +79,10 @@
 ***
 <h4 align="center">Social Media Apps Icon</h4>
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+📌 GitHub ✔ <br> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mindula-Dilthushan)
 
+**Pass your Account URL`https://github.com/Mindula-Dilthushan`**
 ```md
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mindula-Dilthushan) 
 ```
-***
