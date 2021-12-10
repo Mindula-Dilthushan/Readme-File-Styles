@@ -117,4 +117,14 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)
 ```
+---
+📌 Twitter <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/minduladilthushan)
+
+**Pass your Twitter account URL `https://twitter.com/minduladilthushan`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/minduladilthushan)  
+```
+
 
