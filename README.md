@@ -107,5 +107,14 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mindula-dilthushan-manamperi)  
 ```
+---
 
- 
+📌 Instagram <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)
+
+**Pass your Instagram account URL `https://www.instagram.com/minduladilthushan`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)
+```
+
