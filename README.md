@@ -97,3 +97,15 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mindula-Dilthushan/)  
 ```
+***
+
+📌 FaceBook <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mindula-dilthushan-manamperi)
+
+**Pass your FaceBook account URL `https://www.facebook.com/mindula-dilthushan-manamperi`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mindula-dilthushan-manamperi)  
+```
+
+ 
