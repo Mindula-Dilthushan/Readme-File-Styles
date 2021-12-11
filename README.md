@@ -131,7 +131,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mindula-dilthushan)
 
-**Pass your Twitter account URL `https://dev.to/mindula-dilthushan`**
+**Pass your Dev account URL `https://dev.to/mindula-dilthushan`**
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mindula-dilthushan) 
 ```
