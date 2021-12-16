@@ -135,3 +135,13 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mindula-dilthushan) 
 ```
+---
+📌 Reddit <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mindula-dilthushan)
+
+**Pass your Raddit account URL `https://www.reddit.com/user/mindula-dilthushan`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mindula-dilthushan) 
+```
+
