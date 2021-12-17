@@ -162,6 +162,17 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/mindula-dilthushan)  
 ```
+---
+📌 Stack Overflow <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mindula-dilthushan)
+
+**Pass your Stack Overflow account URL `https://stackoverflow.com/users/mindula-dilthushan`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mindula-dilthushan) 
+```
+
+
 
 
 
