@@ -144,4 +144,13 @@
 ```md
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mindula-dilthushan) 
 ```
+---
+📌 Codepen <br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mindula-dilthushan)  
+
+**Pass your Codepen account URL `https://codepen.io/mindula-dilthushan`**
+```md
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mindula-dilthushan)
+```
 
